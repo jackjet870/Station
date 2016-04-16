@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>F:\Station\|Station\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>\\TopFashion\Station\</InstallUrlHistory>
+    <SupportUrlHistory>http://www.oukell.com</SupportUrlHistory>
+    <UpdateUrlHistory>http://localhost/受电弓监测终端/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>zh-CN</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

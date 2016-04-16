@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signal>
+  <add name="in_channel1" channel="1" />
+  <add name="in_channel2" channel="2" />
+  <add name="in_channel3" channel="3" />
+  <add name="in_channel4" channel="4" />
+  <add name="in_channel5" channel="5" />
+  <add name="in_channel6" channel="6" />
+  <add name="in_channel7" channel="7" />
+  <add name="in_channel8" channel="8" />
+  <add name="ou_channel1" channel="1" />
+  <add name="ou_channel2" channel="2" />
+  <add name="ou_channel3" channel="3" />
+  <add name="ou_channel4" channel="4" />
+  <add name="ou_channel5" channel="5" />
+</signal>
